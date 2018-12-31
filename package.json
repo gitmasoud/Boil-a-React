@@ -1,12 +1,21 @@
 {
   "name": "boil-a-react",
-  "version": "1.2.0",
+  "version": "1.6.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitmasoud/Boil-a-React.git"
+  },
+  "keywords": [
+    "like-create-react-app",
+    "boil-a-react",
+    "create-reactjs-app" 
+  ],
   "author": "S Masoud",
   "license": "ISC",
   "devDependencies": {
@@ -23,6 +32,10 @@
     "webpack-cli": "^3.1.1",
     "webpack-dev-server": "^3.1.8"
   },
+  "bugs": {
+    "url": "https://github.com/gitmasoud/Boil-a-React/issues"
+  },
+  "homepage": "https://github.com/gitmasoud/Boil-a-React#readme",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
